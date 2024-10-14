@@ -1,0 +1,5 @@
+alert("Брендан Эйх разработал JavaScript")
+alert("За 10 дней была разработана первая версия языка JavaScript.")
+alert("В 1995 году появилась первая версии языка JavaScript. ")
+alert("avaScript — это не Java")
+alert("Спецификация языка JavaScript называется ECMAScript")
